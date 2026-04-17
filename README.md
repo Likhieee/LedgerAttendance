@@ -128,9 +128,9 @@ LedgerAttendance/
 
 ## 🎓 Academic Details
 
-* **Course:** Cloud Computing
-* **University:** Your University
-* **Semester:** VI (2026)
+* **Course:** Block chain
+* **University:**Pes university
+* **Semester:** VI 
 
 ---
 
